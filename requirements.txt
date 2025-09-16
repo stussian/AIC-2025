@@ -1,0 +1,6 @@
+numpy
+river
+numpy
+optuna
+tqdm
+scikit-learn
